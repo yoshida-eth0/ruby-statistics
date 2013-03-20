@@ -32,3 +32,7 @@ https://github.com/yoshida-eth0/ruby-statistics/blob/master/examples/section4_3.
 2 正規分布
 
 https://github.com/yoshida-eth0/ruby-statistics/blob/master/examples/section5_2.rb
+
+3 標準正規分布
+
+https://github.com/yoshida-eth0/ruby-statistics/blob/master/examples/section5_3.rb
