@@ -1,7 +1,7 @@
 #!/usr/bin/ruby
 
 # 第5章 確立を求めよう！
-# 2. 標準正規分布
+# 3. 標準正規分布
 
 $LOAD_PATH << File.expand_path(__FILE__+"/../../lib")
 require 'statistics'
