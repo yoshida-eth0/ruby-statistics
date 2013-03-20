@@ -4,6 +4,7 @@ require 'statistics/classifiers'
 require 'statistics/classifier'
 require 'statistics/categorizers'
 require 'statistics/categorizer'
+require 'statistics/normal_distribution'
 
 module Statistics
 end

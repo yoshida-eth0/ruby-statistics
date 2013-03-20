@@ -1,7 +1,7 @@
 #!/usr/bin/ruby
 
 # 第3章 データ全体の雰囲気をつかもう！＜カテゴリーデータ編＞
-# 1 単純集計表
+# 1. 単純集計表
 
 $LOAD_PATH << File.expand_path(__FILE__+"/../../lib")
 require 'statistics'

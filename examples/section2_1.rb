@@ -60,7 +60,7 @@ num_hash[:ramen49] = 777
 num_hash[:ramen50] = 700
 
 puts "以上 ~ 未満  階級値  度数  相対度数  その階にある店"
-classifiers =  num_hash.classifiers(100)
+classifiers = num_hash.classifiers(100)
 classifiers.each do |classifier|
   puts sprintf("%4d ~ %4d %7d %5d %9.2f  %s", classifier.lower_limit, classifier.upper_limit, classifier.class_value, classifier.frequency, classifier.relative_frequency, classifier.members.join(" "))
 end

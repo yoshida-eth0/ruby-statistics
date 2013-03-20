@@ -27,3 +27,8 @@ https://github.com/yoshida-eth0/ruby-statistics/blob/master/examples/section4_1.
 3 偏差値
 
 https://github.com/yoshida-eth0/ruby-statistics/blob/master/examples/section4_3.rb
+
+### 第5章 確立を求めよう！
+2 正規分布
+
+https://github.com/yoshida-eth0/ruby-statistics/blob/master/examples/section5_2.rb

@@ -1,4 +1,3 @@
-# 数値Hash
 module Statistics
   module CoreExt
     module Array
@@ -21,7 +20,7 @@ module Statistics
         end
 
         # 度数分布
-        def frequency(step, base=0)
+        def classifiers(step, base=0)
           h = {}
           self.length.times{|i| h[i] = self[i]}
 
