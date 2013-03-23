@@ -40,3 +40,8 @@ https://github.com/yoshida-eth0/ruby-statistics/blob/master/examples/section5_3.
 4 カイ二乗分布
 
 https://github.com/yoshida-eth0/ruby-statistics/blob/master/examples/section5_4.rb
+
+### 第6章 2変数の関連を調べよう！
+1 単相関係数
+
+https://github.com/yoshida-eth0/ruby-statistics/blob/master/examples/section6_1.rb
