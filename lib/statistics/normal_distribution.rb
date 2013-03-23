@@ -1,8 +1,6 @@
 # 正規分布
 module Statistics
   class NormalDistribution
-    #include Enumerable
-
     def initialize(arithmetic_mean, standard_deviation)
       @arithmetic_mean = arithmetic_mean.to_f
       @standard_deviation = standard_deviation.to_f

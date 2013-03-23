@@ -36,3 +36,7 @@ https://github.com/yoshida-eth0/ruby-statistics/blob/master/examples/section5_2.
 3 標準正規分布
 
 https://github.com/yoshida-eth0/ruby-statistics/blob/master/examples/section5_3.rb
+
+4 カイ二乗分布
+
+https://github.com/yoshida-eth0/ruby-statistics/blob/master/examples/section5_4.rb
