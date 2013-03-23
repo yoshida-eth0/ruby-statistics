@@ -45,3 +45,7 @@ https://github.com/yoshida-eth0/ruby-statistics/blob/master/examples/section5_4.
 1 単相関係数
 
 https://github.com/yoshida-eth0/ruby-statistics/blob/master/examples/section6_1.rb
+
+2 相関比
+
+https://github.com/yoshida-eth0/ruby-statistics/blob/master/examples/section6_2.rb

@@ -7,6 +7,7 @@ require 'statistics/categorizer'
 require 'statistics/normal_distribution'
 require 'statistics/chi_squared_distribution'
 require 'statistics/correlation_coefficient'
+require 'statistics/correlation_ratio'
 
 module Statistics
 end
