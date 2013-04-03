@@ -49,3 +49,7 @@ https://github.com/yoshida-eth0/ruby-statistics/blob/master/examples/section6_1.
 2 相関比
 
 https://github.com/yoshida-eth0/ruby-statistics/blob/master/examples/section6_2.rb
+
+3 クラメールの連関係数
+
+https://github.com/yoshida-eth0/ruby-statistics/blob/master/examples/section6_3.rb
